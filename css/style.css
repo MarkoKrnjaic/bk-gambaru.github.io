@@ -255,11 +255,11 @@ text-decoration: none;
     display: flex;
     flex-direction: column;
     text-align: center;
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1), -4px -4px 8px rgba(0, 0, 0, 0.15); /* Dve senke */
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1), -4px -4px 8px rgba(0, 0, 0, 0.15); 
     padding: 20px;
     border-radius: 20px;
+     margin: 100px auto 0 auto;
     background-color: #fff;
-    margin: 100px auto 0px auto;
     width: 80%;
 
 }
