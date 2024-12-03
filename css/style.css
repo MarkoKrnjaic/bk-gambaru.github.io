@@ -47,6 +47,7 @@
 
 .button:hover {
   animation: bounce 0.6s ease-out forwards;
+    background-color: white;
 }
 
 .button a {
